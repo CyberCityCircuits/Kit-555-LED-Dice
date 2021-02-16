@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LED-Dice-Kit-001a-rescue)(type Legacy)(uri "${KIPRJMOD}/LED Dice Kit 001a-rescue.lib")(options "")(descr ""))
+)
